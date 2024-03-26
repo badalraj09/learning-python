@@ -16,3 +16,6 @@ print(z)
 
 #contsant --> write var name in capital its a goo dpractise
 PI=3.14
+
+x,y,z= 'apple',34,'badal'
+print(y)
